@@ -1,6 +1,14 @@
-const age=4;
+// false
+//0
+//null
+//undenfinend
+//nan
 
-if(age){
+//true
+//'0', " ", []
+
+const nameis = "solaimankhan";
+if(nameis){
     console.log("condition is true");
 }
 else{
