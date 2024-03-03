@@ -14,3 +14,10 @@ if(nameis){
 else{
     console.log("condition is false");
 }
+
+const roll = 15;
+if(roll>20){
+    console.log("This is true");
+}else{
+    console.log("This is False");
+}
